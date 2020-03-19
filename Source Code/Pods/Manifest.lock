@@ -1,0 +1,18 @@
+PODS:
+  - Stripe/ApplePay (7.0.1):
+    - Stripe/Core
+  - Stripe/Core (7.0.1)
+
+DEPENDENCIES:
+  - Stripe/ApplePay
+
+SPEC REPOS:
+  trunk:
+    - Stripe
+
+SPEC CHECKSUMS:
+  Stripe: b92298b31cf156fb23a029361b57e2fcb6583d57
+
+PODFILE CHECKSUM: 531eec153564987c7204e6cb8c005c3bc7335c37
+
+COCOAPODS: 1.8.4
